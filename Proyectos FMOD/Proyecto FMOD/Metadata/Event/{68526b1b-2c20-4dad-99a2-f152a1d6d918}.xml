@@ -413,6 +413,15 @@
 		<property name="length">
 			<value>8.1055824279785149</value>
 		</property>
+		<property name="delayType">
+			<value>0</value>
+		</property>
+		<property name="minimumTimeDelay">
+			<value>360</value>
+		</property>
+		<property name="maximumTimeDelay">
+			<value>360</value>
+		</property>
 		<property name="looping">
 			<value>true</value>
 		</property>
@@ -479,6 +488,9 @@
 		</property>
 		<property name="length">
 			<value>7.3000000000000007</value>
+		</property>
+		<property name="delayType">
+			<value>0</value>
 		</property>
 		<property name="looping">
 			<value>true</value>
@@ -554,6 +566,9 @@
 		</property>
 		<property name="length">
 			<value>7.3000000000000007</value>
+		</property>
+		<property name="delayType">
+			<value>0</value>
 		</property>
 		<property name="pitch">
 			<value>-0.5</value>
