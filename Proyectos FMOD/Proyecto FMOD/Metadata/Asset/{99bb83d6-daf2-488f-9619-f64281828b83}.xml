@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EncodableAsset" id="{99bb83d6-daf2-488f-9619-f64281828b83}">
+		<property name="assetPath">
+			<value>Pradera/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{037b643d-a7f9-4219-9dc1-91f3ed228efb}</destination>
+		</relationship>
+	</object>
+</objects>

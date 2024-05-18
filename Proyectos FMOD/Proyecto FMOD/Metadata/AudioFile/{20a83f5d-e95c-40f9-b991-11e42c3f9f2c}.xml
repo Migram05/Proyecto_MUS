@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{20a83f5d-e95c-40f9-b991-11e42c3f9f2c}">
+		<property name="assetPath">
+			<value>Pradera/PianoBajo.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>32.130612244897961</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{037b643d-a7f9-4219-9dc1-91f3ed228efb}</destination>
+		</relationship>
+	</object>
+</objects>

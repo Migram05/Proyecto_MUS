@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f722258d-6cbe-4c64-801d-e1e1e316ba5c}">
+		<property name="assetPath">
+			<value>Pradera/ClarineteMedio.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>32.078367346938776</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{037b643d-a7f9-4219-9dc1-91f3ed228efb}</destination>
+		</relationship>
+	</object>
+</objects>
